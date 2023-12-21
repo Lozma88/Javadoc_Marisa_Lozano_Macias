@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Marisa\1Dam23-24\ENTORNO DE DESARROLLO\TEMA_03 DOCUMENTACION DEL CODIGO\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
